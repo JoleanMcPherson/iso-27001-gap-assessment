@@ -1,34 +1,48 @@
-# Remediation Plan for ISO 27001:2022 Gap Assessment
+# 🛠️ ISO 27001 Remediation Plan
 
-## Overview
-This remediation plan outlines recommended actions to address the identified gaps in SecureFlow’s ISO 27001:2022 control implementation. The goal is to reduce risk exposure and prepare the organization for successful ISO certification.
+This plan addresses gaps identified during the ISO 27001 mock gap assessment for the fictional organization SecureFlow. It aims to reduce risk exposure and prepare for successful certification.
 
----
+## 🚩 Summary of Key Gaps
 
-## Key Findings & Remediation Recommendations
-
-| Control ID | Control Name                            | Gap Description                                   | Recommended Remediation                               | Priority |
-|------------|----------------------------------------|--------------------------------------------------|------------------------------------------------------|----------|
-| A.6.1      | Organizational Roles and Responsibilities | Roles defined but not formally documented        | Develop and document a formal RACI matrix and org chart; communicate responsibilities clearly | High     |
-| A.8.1      | Asset Inventory                       | No formal asset tracking process                   | Implement a centralized asset inventory system; perform regular updates and audits          | High     |
-| A.12.6     | Technical Vulnerability Management    | Vulnerability scans performed but no remediation plan | Establish a documented vulnerability management process including remediation timelines      | Medium   |
-| A.18.1     | Compliance with Legal Requirements     | No documented compliance tracking                   | Create a compliance register to track all legal, regulatory, and contractual obligations     | Medium   |
+- Lack of documented asset inventory process (A.8.1)
+- Incomplete definition of roles and responsibilities (A.6.1)
+- Missing vulnerability remediation plan (A.12.6)
+- No compliance tracking for legal/contractual requirements (A.18.1)
 
 ---
 
-## Next Steps
-1. Assign responsible owners for each remediation item.
-2. Establish timelines with measurable milestones.
-3. Conduct regular progress reviews and update documentation accordingly.
-4. Prepare evidence for future ISO 27001 external audits.
+## 📌 Remediation Actions
+
+### A.6.1 – Organizational Roles and Responsibilities
+- **Action:** Create a formal RACI matrix for key security tasks
+- **Owner:** Security Manager
+- **Deadline:** 30 days
+
+### A.8.1 – Asset Inventory
+- **Action:** Implement automated asset discovery and tracking
+- **Tool Suggested:** Wazuh, GLPI, or Lansweeper
+- **Deadline:** 60 days
+
+### A.12.6 – Vulnerability Management
+- **Action:** Establish patch management procedures with SLAs
+- **Owner:** IT Operations
+- **Deadline:** 45 days
+
+### A.18.1 – Legal and Regulatory Compliance
+- **Action:** Maintain a compliance obligations register and assign owners
+- **Owner:** Compliance Officer
+- **Deadline:** 30 days
 
 ---
 
-## Conclusion
-Addressing these gaps will strengthen SecureFlow’s information security management system and increase readiness for ISO 27001 certification.
+## ✅ Next Steps
+
+- Review this plan with the Risk & Compliance team
+- Update tracker weekly with status changes
+- Prepare executive summary for quarterly audit meeting
 
 ---
 
-*Prepared by: Jolean McPherson, Internal ISO Consultant*
+**Prepared by:** Jolean McPherson, Internal ISO Consultant  
+**Date:** June 14, 2025
 
-*Date: June 14, 2025*  
