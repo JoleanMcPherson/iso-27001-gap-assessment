@@ -23,6 +23,21 @@ The fictional organization, “SecureFlow,” is preparing for ISO 27001 certifi
 - `/audit-notes.md` — Consultant-style notes, observations, and interview references.
 - `/readme.md` — This file.
 
+## 📊 Gap Assessment Matrix
+
+This Excel file compares a fictional organization's security posture against key ISO 27001:2022 controls.
+
+🔗 [Download the Gap Matrix (Excel)](gap-matrix.xlsx)
+
+| Control ID | Control Name                                | Implemented? | Gap? | Notes                                        |
+|------------|---------------------------------------------|--------------|------|----------------------------------------------|
+| A.5.1      | Policies for Information Security           | Yes          | No   | Policy exists and is reviewed annually       |
+| A.6.1      | Organizational Roles and Responsibilities   | Partial      | Yes  | Roles defined, but not documented formally   |
+| A.8.1      | Asset Inventory                             | No           | Yes  | No formal process to track digital assets    |
+| A.9.1      | Access Control Policy                       | Yes          | No   | Policy in place and enforced                 |
+| A.12.6     | Technical Vulnerability Management          | Partial      | Yes  | Scanning tools in use, but no remediation plan |
+| A.18.1     | Compliance with Legal Requirements          | No           | Yes  | No documented compliance tracking in place   |
+
 ## 🧠 Key Skills Demonstrated
 - GRC readiness and internal audit techniques
 - ISO 27001:2022 control domain familiarity
