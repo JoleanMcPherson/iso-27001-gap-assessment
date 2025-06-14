@@ -29,6 +29,6 @@ Addressing these gaps will strengthen SecureFlow’s information security manage
 
 ---
 
-*Prepared by: [Your Name], Internal ISO Consultant*
+*Prepared by: Jolean McPherson, Internal ISO Consultant*
 
-*Date: [Insert Date]*  
+*Date: June 14, 2025*  
