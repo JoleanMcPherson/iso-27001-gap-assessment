@@ -18,7 +18,7 @@ The fictional organization, “SecureFlow,” is preparing for ISO 27001 certifi
 - GitHub (for version control and transparency)
 
 ## 📄 Project Structure
-- [`/gap-matrix.xlsx`](./gap-matrix.xlsx) — Control-by-control checklist indicating current state (Implemented, Partial, Not Implemented), owner, evidence, and risk impact.
+- [`/gap-matrix.xlsx`](https://github.com/JoleanMcPherson/iso-27001-gap-assessment/blob/800cc1d33aa76c2499ca5ded9a3cd509703ff0eb/Gap%20Assessment%20Matrix.xlsx) — Control-by-control checklist indicating current state (Implemented, Partial, Not Implemented), owner, evidence, and risk impact.
 - [`/remediation-plan.md`](./remediation-plan.md) — Summary of top risks and proposed mitigations.
 - [`/audit-notes.md`](./audit-notes.md) — Consultant-style notes, observations, and interview references.
 - [`/readme.md`](./readme.md) — This file.
