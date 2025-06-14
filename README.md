@@ -27,7 +27,7 @@ The fictional organization, “SecureFlow,” is preparing for ISO 27001 certifi
 
 This Excel file compares a fictional organization's security posture against key ISO 27001:2022 controls.
 
-🔗 [Download the Gap Matrix (Excel)](gap-matrix.xlsx)
+🔗 [Download the Gap Matrix (Excel)](Gap Assessment Matrix.xlsx)
 
 | Control ID | Control Name                                | Implemented? | Gap? | Notes                                        |
 |------------|---------------------------------------------|--------------|------|----------------------------------------------|
